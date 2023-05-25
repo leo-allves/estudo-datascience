@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "04aca2fb11a156ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d928cdc63c9b6acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68737c0db48f6658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modulo 1 - Algoritmos/Algoritmo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44066d55fff37155",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc35d60399baf102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd474d01cdb3e7e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe1d35caa6875c41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd3c9b52f84a6ece",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "608b69501230fada",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab22c15e36aecbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a27ae59926b2086",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modulo 1 - Algoritmos/Algoritmo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a644ec59ac613d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modulo 1 - Algoritmos/Algoritmo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57db9bee9b5ac031",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b104bc46febf1d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modulo 1 - Algoritmos/Algoritmo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bd474d01cdb3e7e0",
+  "lastOpenFiles": [
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524232617.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524232512.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524232411.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524232345.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524232252.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524231936.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524231812.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524231723.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524231316.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524231324.png",
+    "Modulo 1 - Algoritmos/img/Pasted image 20230524231629.png",
+    "Modulo 1 - Algoritmos/Algoritmo.md",
+    "Modulo 1 - Algoritmos/ex01.py",
+    "Modulo 1 - Algoritmos/img",
+    "README.md"
+  ]
+}
