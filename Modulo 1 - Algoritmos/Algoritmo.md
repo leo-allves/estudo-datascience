@@ -79,5 +79,3 @@ print(Media)  # 7.5
 ![[Pasted image 20230524232617.png]]
 
 
-##### 21
-
